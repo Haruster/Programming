@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt # Matplotlib 라이브러리 사용(시각)
-import pandas as pd
+import matplotlib.pyplot as plt # Matplotlib 라이브러리 사용(시각화)
+import pandas as pd #Pandas 라이브러리 사용
 
 pd.Series([1, 2, 3, 4, 5]) #Series는 Pandas에서 제공하는 데이터 타입이며 int가 있는 1차원 배열이다.
 # (문자, 숫자 논리합 등의 모든 데이터 타입을 사용할 수 있다.)
