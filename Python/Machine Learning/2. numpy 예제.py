@@ -4,7 +4,7 @@ import numpy as np # numpy 라이브러리 사용
 
 data = [1, 2, 3, 4, 5] #리스트 생성
 
-arr = np.array(data) # numpy 라이브러리를 통해서 우리가 흔히 알수 있는 행렬 형태로 바꿔준다.
+arr = np.array(data) # numpy 라이브러리를 통해서 우리가 흔히 알 수 있는 행렬 형태로 바꿔준다.
 
 arr.shape # 데이터가 몇 개인지 출력한다.
 
