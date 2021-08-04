@@ -9,3 +9,4 @@ fn print_number(num: u32) {
     }
 
 }
+
