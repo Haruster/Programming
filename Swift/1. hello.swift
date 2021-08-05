@@ -1,3 +1,3 @@
-import UIKit
+import Foundation
 
 print("hello world")

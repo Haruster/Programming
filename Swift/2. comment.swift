@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 //싱글라인 주석
 
