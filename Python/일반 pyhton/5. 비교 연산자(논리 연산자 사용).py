@@ -3,5 +3,8 @@
 
 print(3 < 5) #false가 출력됨
 print(5 > 3) #true가 출력됨
+print(5 == 3) #true가 출력됨
 print(2 >= 10) #false가 출력됨
+print(5 >= 10) #false가 출력됨
 print(5 != 10) #true가 출력됨
+
