@@ -2,4 +2,7 @@ import Foundation
 
 var x = 10;
 
-while 
+while x  > 0 {
+    print("hello world")
+     x -= 1
+}
