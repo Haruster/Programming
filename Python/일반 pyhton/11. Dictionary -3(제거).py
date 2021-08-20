@@ -1,4 +1,4 @@
-# del 함수로 Dictionary의 원소를 삭제할 수 있다.
+ㅇ# del 함수로 Dictionary의 원소를 삭제할 수 있다.
 
 person = {'name': 'Kinesys', 'age': 20}
 
